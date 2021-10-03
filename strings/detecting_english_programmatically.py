@@ -57,5 +57,5 @@ def isEnglish(message, wordPercentage=20, letterPercentage=85):
 
 if __name__ == "__main__":
     import doctest
-
+    # Commentaire ajouté par FCE le 03/10/2021
     doctest.testmod()
